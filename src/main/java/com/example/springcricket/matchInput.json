@@ -1,0 +1,18 @@
+{
+  "matchName" : "Test",
+  "teams" : [{
+    "teamName" : "India",
+    "playersIdList" : ["da55a391-6956-4966-8a47-33b98c9e0fa5"],
+    "captain" : "da55a391-6956-4966-8a47-33b98c9e0fa5"
+  },{
+    "teamName" : "Aus",
+    "playersIdList" : ["da55a391-6956-4966-8a47-33b98c9e0fa5"],
+    "captain" : "da55a391-6956-4966-8a47-33b98c9e0fa5"
+  }],
+  "totalOvers" : 10 ,
+  "choiceOfTeam1" : "HEAD"
+}
+
+{
+  matchId : "4beb30b2-b74b-4e9d-b646-b132f859f6dd"
+}
